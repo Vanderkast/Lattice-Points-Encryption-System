@@ -1,6 +1,4 @@
-package net.vanderkast.lpes.spec;
-
-import net.vanderkast.lpes.LpesPrivateKey;
+package net.vanderkast.lpes;
 
 import java.security.spec.KeySpec;
 import java.util.Arrays;

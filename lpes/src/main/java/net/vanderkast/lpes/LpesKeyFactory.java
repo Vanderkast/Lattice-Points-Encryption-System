@@ -1,8 +1,6 @@
 package net.vanderkast.lpes;
 
 import lombok.RequiredArgsConstructor;
-import net.vanderkast.lpes.spec.LpesPrivateKeySpec;
-import net.vanderkast.lpes.spec.LpesPublicKeySpec;
 
 import java.math.BigInteger;
 import java.security.*;

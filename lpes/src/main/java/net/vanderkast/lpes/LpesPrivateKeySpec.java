@@ -1,4 +1,4 @@
-package net.vanderkast.lpes.spec;
+package net.vanderkast.lpes;
 
 import java.math.BigInteger;
 import java.security.spec.KeySpec;
